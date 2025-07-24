@@ -18,6 +18,8 @@ A simple and efficient Python script to extract **email addresses** from a text 
 
 ## File Structure
 
+```
+
 email-extractor/
 ├── sample\_input.txt         # Sample input text file with emails
 ├── email\_extractor.py       # Main Python script
@@ -25,6 +27,8 @@ email-extractor/
 ├── gmail\_emails.txt         # Output: only Gmail addresses
 ├── other\_emails.txt         # Output: non-Gmail addresses
 └── README.md                # Project documentation
+
+````
 
 ## How to Use
 
