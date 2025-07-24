@@ -34,16 +34,18 @@ email-extractor/
 
 ### 1.Clone the Repo
 
-- bash
+```bash
 git clone https://github.com/your-username/email-extractor.git
 cd email-extractor
+````
 
 ### 2. Run the Script
 
 Make sure you have Python 3 installed.
 
-- bash
+```bash
 python email_extractor.py
+```
 
 ### 3. Check Output
 
