@@ -1,0 +1,13 @@
+Hello team,
+
+Please find below the contact list:
+
+- alice@gmail.com
+- bob@yahoo.com
+- admin@company.org
+- charlie@gmail.com
+- support@company.org
+- someone@outlook.com
+
+Thanks,
+Team

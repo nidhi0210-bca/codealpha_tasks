@@ -1,0 +1,4 @@
+admin@company.org
+bob@yahoo.com
+someone@outlook.com
+support@company.org

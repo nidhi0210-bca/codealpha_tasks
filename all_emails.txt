@@ -1,0 +1,6 @@
+admin@company.org
+alice@gmail.com
+bob@yahoo.com
+charlie@gmail.com
+someone@outlook.com
+support@company.org
